@@ -1,0 +1,19 @@
+.btn-click{
+    width: 100px;
+    height: 50px;
+    /* تغيير للون خلفية */
+    background-color:brown;
+    /* تغيير للون خلفية */
+    color: white;
+    font-size: 20px;
+}
+
+.btn-click:hover{
+    width: 100px;
+    height: 50px;
+    /* تغيير للون خلفية */
+    background-color:blue;
+    /* تغيير للون خلفية */
+    color: white;
+    font-size: 20px;
+}
